@@ -1,1 +1,2 @@
-def curfew_checker
+def curfew_checker(time)
+  puts
